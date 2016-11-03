@@ -1,0 +1,4 @@
+{
+	"docgen": "quay.io/taulia/docgen:1234567890",
+	"invoice" "quay.io/taulia/invoice:1234567890"
+}
